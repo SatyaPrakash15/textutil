@@ -1,5 +1,7 @@
 import React from "react";
 
+// this is navbar
+
 export default function Navbar(props) {
   return (
     <nav className={"navbar navbar-expand-lg navbar-dark bg-dark"}>
